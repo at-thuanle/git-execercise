@@ -1,4 +1,4 @@
 <?php
     echo "hello world";
-    abc dch;
+    var_dump('new line');
 ?>
